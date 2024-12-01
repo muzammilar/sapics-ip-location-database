@@ -1,6 +1,6 @@
 {
   "name": "@ip-location-db/geo-whois-asn-country-mmdb",
-  "version": "2.3.2024113018",
+  "version": "2.3.2024120118",
   "description": "Ip to location database",
   "keywords": [
     "ip",
