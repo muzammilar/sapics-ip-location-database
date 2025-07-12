@@ -1,6 +1,6 @@
 {
   "name": "@ip-location-db/geolite2-asn",
-  "version": "2.3.2025071119",
+  "version": "2.3.2025071219",
   "description": "Ip to location database",
   "keywords": [
     "ip",
@@ -23,6 +23,6 @@
     "url": "git+https://github.com/sapics/ip-location-db.git"
   },
   "CUSTOME_FIELDS": {
-    "geolite2_hash_asn": "ec9762bd33630fc4000a9ffe39eb445d2b7dca00c58e461f0b6a9fdbac82ed7f"
+    "geolite2_hash_asn": "4b88eb5f6ae40f399bb44f70da0d05c7bd9858223b98c1d3d4e885149c3855da"
   }
 }
