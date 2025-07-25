@@ -1,6 +1,6 @@
 {
   "name": "@ip-location-db/geolite2-city",
-  "version": "2.3.2025072319",
+  "version": "2.3.2025072519",
   "description": "Ip to location database",
   "keywords": [
     "ip",
@@ -23,6 +23,6 @@
     "url": "git+https://github.com/sapics/ip-location-db.git"
   },
   "CUSTOME_FIELDS": {
-    "geolite2_hash_city": "a63b69685e8bd9e9630bea1ea183b30c173dc621c3158f8f814662e53b6f80f6"
+    "geolite2_hash_city": "cfa62e1a182ea398016e758668386c58a9a450295d75390abb486a7350553832"
   }
 }
